@@ -1,0 +1,142 @@
+{
+  "range": "Sides!A1:F17",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Lemony Cauliflower",
+      "https://cooking.nytimes.com/recipes/1020617-lemony-cauliflower-with-garlic-and-herbs",
+      "Vegetable",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Smashed Cucumbers",
+      "https://cooking.nytimes.com/recipes/1017629-chinese-smashed-cucumbers-with-sesame-oil-and-garlic",
+      "Vegetable, Salad",
+      "Asian",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Chickpea Salad",
+      "https://cooking.nytimes.com/recipes/1020335-chickpea-salad-with-fresh-herbs-and-scallions",
+      "Salad",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Potato Salad",
+      "https://cooking.nytimes.com/recipes/9470-german-potato-salad",
+      "Vegetable, Salad",
+      "American",
+      "TRUE",
+      "FALSE"
+    ],
+    [
+      "Kongnamul",
+      "",
+      "Vegetable",
+      "Asian",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Pickled Bean Sprout Salad",
+      "https://cooking.nytimes.com/recipes/1021836-dua-gia-pickled-bean-sprout-salad",
+      "Vegetable, Salad",
+      "Asian",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Sugar Snap Pea Salad",
+      "https://cooking.nytimes.com/recipes/1012582-sugar-snap-pea-salad-with-radishes-mint-and-ricotta-salata",
+      "Salad",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Quick-Pickled Vegetable Salad",
+      "https://cooking.nytimes.com/recipes/1021055-quick-pickled-vegetable-salad",
+      "Vegetable, Salad",
+      "Asian",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Potato and Green Bean Salad",
+      "https://cooking.nytimes.com/recipes/12564-french-potato-and-green-bean-salad",
+      "Salad",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Jollof Rice",
+      "https://cooking.nytimes.com/recipes/1020288-jollof-rice",
+      "Rice",
+      "American",
+      "TRUE",
+      "FALSE"
+    ],
+    [
+      "Broccoli Rabe",
+      "",
+      "Vegetable",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Sesame Chard",
+      "",
+      "Vegetable",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Coconut-Braised Collards",
+      "https://cooking.nytimes.com/recipes/1020087-coconut-braised-collard-greens",
+      "Vegetable",
+      "American",
+      "TRUE",
+      "TRUE"
+    ],
+    [
+      "Bread",
+      "",
+      "Bread",
+      "American",
+      "TRUE",
+      "FALSE"
+    ],
+    [
+      "Rice",
+      "",
+      "Rice",
+      "American",
+      "TRUE",
+      "FALSE"
+    ],
+    [
+      "Noodles",
+      "",
+      "Noodles",
+      "American",
+      "TRUE",
+      "FALSE"
+    ],
+    [
+      "Polenta",
+      "",
+      "Polenta",
+      "American",
+      "TRUE",
+      "FALSE"
+    ]
+  ]
+}
